@@ -192,7 +192,8 @@ main {
 
 .resume-button {
     margin-top: 50px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 /* contact section style */
